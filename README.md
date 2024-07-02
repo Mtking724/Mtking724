@@ -1,17 +1,6 @@
 
 ## Hi there 👋
 
-  <a href="https://x.com/mtkinj">
-    <img height="20" src="https://img.shields.io/x/follow/mtkinj?label=x&logo=x&style=flat" />
-  </a>
-  <a href="https://qiita.com/Motoki0724">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yMotoki0724/posts.svg" />
-  </a>
-  <//qiita.com/Motoki0724">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/Motoki0724/contributions.svg" />
-  </a>
-</p>
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mtking724&theme=2077)
 
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mtking724&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
