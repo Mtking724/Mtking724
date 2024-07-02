@@ -1,12 +1,8 @@
 
 ## Hi there 👋
 
-<p align="left">
-  <a href="https://github.com/Mtking724">
-    <img src="https://komarev.com/ghpvc/?username=Mtking724" alt="Mtking724" />
-  </a>
   <a href="https://x.com/mtkinj">
-    <img height="20" src="https://img.shields.io/twitter/follow/mtkinj?label=Twitter&logo=twitter&style=flat" />
+    <img height="20" src="https://img.shields.io/x/follow/mtkinj?label=x&logo=x&style=flat" />
   </a>
   <a href="https://qiita.com/Motoki0724">
     <img height="20" src="https://qiita-badge.apiapi.app/s/yMotoki0724/posts.svg" />
