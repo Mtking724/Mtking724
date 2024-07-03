@@ -10,7 +10,7 @@
   <//https://qiita.com/Motoki0724">
     <img height="20" src="https://qiita-badge.apiapi.app/s/Motoki0724/contributions.svg" />
   </a>
-</p>
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mtking724&theme=2077)
 
