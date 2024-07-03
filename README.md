@@ -7,7 +7,7 @@
   <a href="http://qiita.com/yutkat">
     <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/posts.svg" />
   </a>
-   <a <//https://qiita.com/Motoki0724">
+   <a href=//https://qiita.com/Motoki0724">
     <img height="20" src="https://qiita-badge.apiapi.app/s/Motoki0724/contributions.svg" />
   </a>
 
