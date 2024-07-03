@@ -4,7 +4,7 @@
   <a href="https://x.com/mtkinj">
     <img height="20" src="https://img.shields.io/twitter/follow/mtkinj?label=Twitter&logo=twitter&style=flat" />
   </a>
-  <a href="http://qiita.com/yutkat">
+  <a href="http://qiita.com/Motoki0724">
     <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/posts.svg" />
   </a>
    <a href=//https://qiita.com/Motoki0724">
