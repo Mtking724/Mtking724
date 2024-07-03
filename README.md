@@ -2,7 +2,7 @@
 ## Hi there 👋
 
   <a href="https://x.com/mtkinj">
-    <img alt="x" width="30px" src="https://simpleicons.org/icons/x.svg" />
+    <img alt="x" width="30px" src="https://simpleicons.org/icons/x.svg" " /></a>
   </a>
   <a href="http://qiita.com/Motoki0724">
     <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/posts.svg" />
