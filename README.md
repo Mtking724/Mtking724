@@ -2,7 +2,7 @@
 ## Hi there 👋
 
   <a href="https://x.com/mtkinj">
-    <img height="20" src="https://simpleicons.org/icons/x.svg" />
+    <img height="20" src="https://img.shields.io/twitter/follow/mtkinj?label=x&logo=x&style=flat" />
   </a>
   <a href="http://qiita.com/Motoki0724">
     <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/posts.svg" />
